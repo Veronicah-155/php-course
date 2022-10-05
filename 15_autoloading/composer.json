@@ -1,0 +1,22 @@
+{
+    "name": "veronicah/155",
+    "autoload": {
+        "psr-4": {
+            "Veronicah\\155\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veronicah-155",
+            "email": "njugunaveraiconicah@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}

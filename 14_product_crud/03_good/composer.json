@@ -1,0 +1,16 @@
+{
+    "name": "veronicah/155",
+   
+    "authors": [
+        {
+            "name": "Veronicah-155",
+            "email": "njugunaveraiconicah@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
